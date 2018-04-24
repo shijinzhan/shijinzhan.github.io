@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: ''
+title: '我什么都不知道'
 description: ''
 keyword: ''
 url: 'http://shijinzhan.cn' # your host
@@ -9,8 +9,8 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
+  首页: '/'
+  标签: '/tags.html'
 
 # Footer
 footer:
